@@ -1,0 +1,28 @@
+1.What is Devops?
+Ans.
+DevOps, a portmanteau of "development" and "operations," is a set of practices, methodologies, and cultural philosophies that aim to improve collaboration
+and communication between software development (Dev) and IT operations (Ops) teams. The primary goal of DevOps is to shorten the software development lifecycle, 
+deliver software more frequently, and ensure a higher level of quality, reliability, and performance.
+
+2.What is Automation, Scaling, Infrastructure ?
+Ans.
+Automation:
+Automation refers to the process of using technology to perform tasks and processes without human intervention. It involves creating scripts, tools, or workflows 
+that can execute repetitive tasks automatically. Automation helps reduce human error, increase efficiency, and streamline workflows. In the context of software development 
+and operations (DevOps), automation is used to automate tasks such as code deployment, server provisioning, configuration management, testing, and monitoring.
+
+Scaling:
+Scaling involves adjusting the capacity of a system to handle changes in load or demand. In technology, scaling can refer to both vertical scaling (increasing the resources
+of a single server or instance) and horizontal scaling (adding more servers or instances to distribute the load). The goal of scaling is to ensure that a system can accommodate 
+increased user activity or data processing without compromising performance or reliability. Cloud computing platforms provide the infrastructure and tools to scale resources up or 
+down based on demand.
+
+Infrastructure:
+Infrastructure refers to the underlying foundation of hardware, software, and networks required to support and operate applications, services, and systems. In the context of IT 
+and technology, infrastructure includes servers, storage devices, networking equipment, data centers, and more. With the advent of cloud computing, infrastructure can be provided as 
+a service (IaaS), allowing organizations to access and manage virtualized resources over the internet without owning and maintaining physical hardware.
+
+3.Why DevOps is Important ?
+Ans.
+DevOps is important because it bridges the gap between software development and IT operations, enabling faster and more reliable software delivery through automation, collaboration, and continuous improvement. 
+This results in enhanced efficiency, reduced risk, and better user experiences.
